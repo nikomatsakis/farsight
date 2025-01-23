@@ -1,2 +1,3 @@
 # farsight
-Experimenting with Rust Vision Doc structure
+
+Experimenting with Rust Vision Doc structure.
