@@ -1,0 +1,5 @@
+# Farsight
+
+THE FUTURE IS COMING
+
+ARE YOU READY
